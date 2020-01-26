@@ -1,0 +1,40 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.ravunana.educacao.uaa",
+      "nativeLanguage": "pt-pt"
+    },
+    "jhipsterVersion": "6.6.0",
+    "applicationType": "uaa",
+    "baseName": "uaa",
+    "packageName": "com.ravunana.educacao.uaa",
+    "packageFolder": "com/ravunana/educacao/uaa",
+    "serverPort": "9999",
+    "authenticationType": "uaa",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": "kafka",
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "MTY2ZjBkOGQ1YTgxNWFhZmIwMzJiMWJhNTBmZDgzMWQ3YjQ1YjFhYjZkYWU5MDNkNWQ4YTZiNjQyMmRlNGFlODllZTc4YjEwNTc1MjFiYzliOGVhZmM2ZTE2YWVjOTczNjE3ODIyMTRmOGRjMzNmN2NlZmQzMDI5NDMyMGExMDM=",
+    "embeddableLaunchScript": false,
+    "creationTimestamp": 1580045752602,
+    "testFrameworks": ["gatling", "cucumber"],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "clientPackageManager": "npm",
+    "nativeLanguage": "pt-pt",
+    "languages": ["pt-pt"],
+    "blueprints": [],
+    "skipClient": true
+  }
+}
